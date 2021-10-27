@@ -3,7 +3,7 @@
 {
     height: 1400px;
     width: 1000px;
-    border: 5px solid rgb(83, 199, 38); 
+    border: 5px ridge rgb(83, 199, 38); 
     background-image: url(image.jpg);
 } 
 #container3
